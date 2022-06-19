@@ -1,0 +1,13 @@
+1. today
+    * inline and block element
+    * heading tag
+    * inline tag
+    * block label tag
+    * element vs tag
+    * attribute
+
+
+    =========================
+    1. inline css
+    2. Internal css
+    3. External css
