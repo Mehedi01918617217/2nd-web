@@ -26,7 +26,10 @@ img {
     height: 500px;
     width: 400px;
 }
-
+.imgAdd{
+    width: 500px; 
+    height: 500px ;   
+}
 #birthday {
     font: 30px sans-serif;
     color: rgb(185, 214, 19);
